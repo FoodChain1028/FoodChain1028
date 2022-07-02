@@ -2,5 +2,5 @@
 - 👀 I’m interested in blockchain and web3.
 - 🌱 I’m currently learning cryptography, DApp construction and web security.
 - 📫 How to reach me
-  - email: sh1001309@gmail.com
+  - email: B
   - medium: [here](https://medium.com/@food-chain)
