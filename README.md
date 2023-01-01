@@ -6,5 +6,5 @@
 
 
 ### github stats 
-![foodchain's github stats](https://github-readme-stats.vercel.app/api?username=FoodC1028hain&show_icons=true&theme=cobalt) 
+![foodchain's github stats](https://github-readme-stats.vercel.app/api?username=FoodChain1028&show_icons=true&theme=cobalt) 
 [![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FoodChain1028&layout=compact&hide=jupyter%20notebook,html)](https://github.com/anuraghazra/github-readme-stats)
