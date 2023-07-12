@@ -13,7 +13,7 @@
 - 🌱 I’m currently learning cryptography, DApp construction and web security.
 - Email : sh1001309@gmail.com
 - My Contents: [medium](https://medium.com/@food-chain)
-- My Portfolio: [foodchain1028.com](foodchain1028.com)
+- My Portfolio: [foodchain1028.com](https://foodchain1028.com)
 
 ### github stats 
 ![foodchain's github stats](https://github-readme-stats.vercel.app/api?username=FoodChain1028&show_icons=true&theme=cobalt) 
