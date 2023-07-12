@@ -11,9 +11,9 @@
 - 👋 Hi, I’m Fu_Chuan Chung, aka FoodChain or Jeff as well.
 - 👀 I’m interested in blockchain and web3.
 - 🌱 I’m currently learning cryptography, DApp construction and web security.
-- Email :B08613041@ntu.edu.tw
+- Email : sh1001309@gmail.com
 - My Contents: [medium](https://medium.com/@food-chain)
-
+- My Portfolio: [foodchain1028.com](foodchain1028.com)
 
 ### github stats 
 ![foodchain's github stats](https://github-readme-stats.vercel.app/api?username=FoodChain1028&show_icons=true&theme=cobalt) 
