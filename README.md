@@ -9,8 +9,7 @@
 </p>
 
 - 👋 Hi, I’m Fu_Chuan Chung, aka FoodChain or Jeff as well.
-- 👀 I’m interested in blockchain and web3.
-- 🌱 I’m currently learning cryptography, DApp construction and web security.
+- 🌱 An zk learner and builder.
 - Email : sh1001309@gmail.com
 - My Contents: [medium](https://medium.com/@food-chain)
 - My Portfolio: [foodchain1028.com](https://foodchain1028.com)
