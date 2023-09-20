@@ -14,6 +14,10 @@
 - My Contents: [medium](https://medium.com/@food-chain)
 - My Portfolio: [foodchain1028.com](https://foodchain1028.com)
 
+<p align="center">
+    <img src="https://assets.pokemon.com/assets/cms2/img/pokedex/full/132.png">
+</p>
+
 ### github stats 
 ![foodchain's github stats](https://github-readme-stats.vercel.app/api?username=FoodChain1028&show_icons=true&theme=cobalt) 
 [![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FoodChain1028&layout=compact&hide=html)](https://github.com/anuraghazra/github-readme-stats)
