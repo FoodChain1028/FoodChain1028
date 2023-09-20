@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm FuChuan Chung</h1>
-<h3 align="center">A Blockchain & DApp Developer from Taiwan</h3>
+<h1 align="center">Hi 👋, I'm Fu-Chuan Chung</h1>
+<h3 align="center">A Software Engineer && ZK Lover from Taiwan</h3>
 
 <p align="center">
 	<a href="mailto:sh1001309@gmail.com?subject=Github%20Visitor&body=Hi%20Ohidur,..."><img src="http://img.shields.io/badge/sh1001309@gmail.com-_?label=Send%20Mail&style=social&logo=gmail" alt="sh1001309@gmail.com"></a>
@@ -8,7 +8,7 @@
   <img src="https://komarev.com/ghpvc/?username=FoodChain1028&label=Profile%20views&color=0e75b6&style=flat" alt="FoodChain1028" />
 </p>
 
-- 👋 Hi, I’m Fu_Chuan Chung, aka FoodChain or Jeff as well.
+- 👋 Hi, I’m Fu-Chuan Chung, aka FoodChain or Jeff as well.
 - 🌱 A zk learner and builder.
 - Email : sh1001309@gmail.com
 - My Contents: [medium](https://medium.com/@food-chain)
