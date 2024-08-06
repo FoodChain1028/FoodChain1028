@@ -10,6 +10,8 @@
 
 - 👋 Hi, I’m Fu-Chuan Chung, aka FoodChain or Jeff as well.
 - 🌱 A zk learner and builder.
+- ⚡️ Currently a Researching Intern at @NethermindEth
+- 🔥 Active contributor to @zkmopro && @unirep-social-taiwan
 - Email : sh1001309@gmail.com
 - My Contents: [medium](https://medium.com/@food-chain)
 - My Portfolio: [foodchain1028.com](https://foodchain1028.com)
