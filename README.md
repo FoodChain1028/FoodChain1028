@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fu-Chuan Chung</h1>
-<h3 align="center">A ZK Lover from Taiwan; Contributors @Unirep, @zkmopro; ex-Intern @Nethermind;</h3>
+<h3 align="center">A ZK Lover from Taiwan; Contributors @TokamakNetwork @Unirep, @zkmopro; ex-Intern @Nethermind;</h3>
 
 <p align="center">
 	<a href="mailto:sh1001309@gmail.com?subject=Github%20Visitor&body=Hi%20Ohidur,..."><img src="http://img.shields.io/badge/sh1001309@gmail.com-_?label=Send%20Mail&style=social&logo=gmail" alt="sh1001309@gmail.com"></a>
@@ -10,7 +10,7 @@
 
 - 👋 Hi, I’m Fu-Chuan Chung, aka FoodChain or Jeff as well.
 - 🌱 A zk learner and builder.
-- 🔥 Active contributor to @zkmopro && @unirep-social-taiwan
+- 🔥 Active contributor to @tokamak-network @zkmopro && @unirep-social-taiwan
 - ⚡️ Ex-Intern at @NethermindEth
 - Email : cfc.dev009@gmail.com
 - My Contents: [medium](https://medium.com/@food-chain)
